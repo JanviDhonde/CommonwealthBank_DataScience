@@ -1,6 +1,6 @@
 # Commonwealth Bank Introduction to Data Science Job Simulation
 **CommonwealthBank_DataScience:** <br>
-I completed the Commonwealth Bank Data Science job simulation on Forage, where I created data engineering pipelines to extract valuable insights from datasets. I learned data anonymization for privacy compliance and designed optimized databases. This experience enhanced my skills in data analysis, database design, and ensuring data privacy.
+I completed the Commonwealth Bank Data Science job simulation on Forage, where I created data engineering pipelines to extract valuable insights from datasets. I learned data anonymization for privacy compliance and designed optimized databases. This experience enhanced my skills in data analysis, database design, and ensuring data privacy..
 
 **Repository Overview:**  
 This repository showcases my experience in Commonwealth Bank's Introduction to Data Science job simulation on the Forage platform. During this simulation, I worked on a data engineering project where I aggregated datasets, extracted valuable insights, and ensured compliance with data privacy regulations. I also designed and optimized databases for efficient data management and analysis.
